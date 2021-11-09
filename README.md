@@ -1,6 +1,6 @@
 Sample Test Project
 
 Demo
-![Demo](assets/demo.mp4)
+[assets/demo.mp4](assets/demo.mp4)
 
-Download APK ![assets/app-debug.apk](assets/app-debug.apk)
+Download APK [assets/app-debug.apk](assets/app-debug.apk)
